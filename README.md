@@ -1,2 +1,2 @@
 # autobot
-Slack autobot
+Playground for working with Slack api
